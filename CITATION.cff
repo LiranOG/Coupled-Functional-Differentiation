@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: >-
+  Coupled Functional Differentiation (CFD): A Mechanism-Based,
+  Formalized, and Falsifiable Theory of the Multi-Level Human
+  Social System
+message: >-
+  If you use or reference this theory or any materials in this
+  repository, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Liran M.
+    family-names: Schwartz
+    orcid: 'https://orcid.org/0009-0008-8035-1308'
+    city: Haifa
+    country: IL
+repository-code: >-
+  https://github.com/LiranOG/Coupled-Functional-Differentiation
+url: >-
+  https://github.com/LiranOG/Coupled-Functional-Differentiation
+abstract: >-
+  This repository contains the complete theoretical framework,
+  formalization, and empirical propositions for Coupled Functional
+  Differentiation (CFD) — a mechanism-based theory of the
+  multi-level human social system. The theory specifies a single
+  Core Generative Mechanism (CGM) from which macro-level
+  coordination, subsystem colonization, small-group logic
+  switching, surveillance-capitalism-driven autonomy erosion, and
+  globally synchronized crises are derived as deductive
+  consequences. Sixteen directional, falsifiable propositions and
+  an explicit falsification criterion are provided. This is an
+  independent working paper/preprint, not peer-reviewed.
+keywords:
+  - functional differentiation
+  - structural coupling
+  - emergence
+  - critical realism
+  - Coleman boat
+  - relational models
+  - surveillance capitalism
+  - agent-based modeling
+  - social systems theory
+  - macrosociology
+license: GPL-3.0
+license-docs: CC-BY-NC-4.0
+version: 2.0.0
+date-released: '2026-05-08'
