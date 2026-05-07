@@ -4,7 +4,7 @@
 
 We live in an era in which humanity explores space and faces immense challenges. As long as we remain stuck at our current level, we are in severe existential danger.
 
-If we do not change the paradigms and methodologies by means of which the world, the public, and all populations operate, we will remain below step 1. Worse still, under one set of circumstances or another, we may annihilate ourselves. This is a real threat.
+If we do not change the paradigms and methodologies by means of which the world, the public, and all populations operate, we will remain below step 1 on Kardashev scale. Worse still, under one set of circumstances or another, we may annihilate ourselves. This is a real threat.
 
 Only when we change our ways of thinking and acting — not at the individual level, but at the collective level — only then will we be ripe to climb this step. There are clear conditions that are not yet fully known to us, but we are working to decipher them. There are also obstacles that must be closed: for example, if we do not gain control over artificial intelligence, it may destroy us in the end, and there are additional threats requiring immediate solutions.
 
