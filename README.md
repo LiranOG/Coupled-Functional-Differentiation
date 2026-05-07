@@ -1,11 +1,15 @@
+<div align="center">
+
 # Coupled Functional Differentiation (CFD)
 
 ### A Mechanism-Based, Formalized, and Falsifiable Theory of the Multi-Level Human Social System
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](LICENSE)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE-DOCS)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE-DOCS) 
+
 [![Status: Preprint](https://img.shields.io/badge/Status-Preprint-orange.svg)](#disclaimer)
-[![Version: v2.0](https://img.shields.io/badge/Version-v2.0-green.svg)](paper/CFD_main_paper.md)
+
+</div>
 
 > **Licensing Notice:**
 > * All source code in this repository is licensed under the [GNU General Public License v3 (GPL-3.0)](LICENSE).
