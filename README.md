@@ -11,13 +11,11 @@
 
 </div>
 
-> **Licensing Notice:**
-> * All source code in this repository is licensed under the [GNU General Public License v3 (GPL-3.0)](LICENSE).
-> * All documentation, articles, and non-code files (including the paper, ABM specification, propositions, translations, and comparison documents) are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE-DOCS).
->
+> [!IMPORTANT]
 > **Disclaimer:** This is an independent working paper/preprint. It has not undergone peer review, and all claims are provisional and subject to revision based on future empirical testing and community critique. This preliminary framework is submitted for open community feedback and pending empirical validation.
 
----
+
+<div align="center">
 
 ## Executive Summary
 
@@ -28,6 +26,8 @@ This paper proposes a third option. It specifies a single **Core Generative Mech
 The **ego** — the layered biological-cognitive-affective-motivational complex of the individual, organized around survival, recognition, and status, with affective valence on an approach/avoidance (love/fear) axis — is the locus where the four loops of this mechanism meet. The aggregate institutional layer functions as a **Social Operating System**: ideology and religion serve as the categorical glue allowing millions of unacquainted egos to coordinate; the legal subsystem replaces personal revenge with formal procedure; money operates as a "religion of trust." At the global scale, the joint operation of these loops constitutes a **modern Leviathan** — a globally coupled multi-system network following the canonical loop: money → technology → ideology → education → ego → system → money.
 
 From the single CGM, we derive the conditions for subsystem colonization, small-group logic flipping, globally synchronized crises, and surveillance-capitalist erosion of reflective autonomy. The theory is formalized through a system of difference equations, specified computationally through an Agent-Based Model (COFD-ABM), and yields **sixteen directional, falsifiable propositions** including an explicit falsification criterion.
+
+</div>
 
 ## Core Generative Mechanism
 
@@ -137,6 +137,15 @@ This is an open preprint. Contributions, critiques, and empirical tests are welc
 2. **Empirical testing:** If you test any of the 16 propositions, please share results via issue or PR.
 3. **Formalization:** Improvements to the equation system or ABM specification are welcome.
 4. **Translation:** Corrections to the Hebrew-English translations are appreciated.
+
+## License
+
+This repository uses a dual-license model:
+
+| Component | License | Applies To |
+|-----------|---------|------------|
+| Source code | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0) | All `.py`, `.cpp`, `.js`, and other executable files |
+| Documentation & theory | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | Paper, ABM specification, propositions, translations, and comparison documents |
 
 ## Author
 
