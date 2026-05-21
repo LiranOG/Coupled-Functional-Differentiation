@@ -6,7 +6,7 @@ affiliation: "Independent Researcher, Haifa, Israel"
 date: "May 2026"
 version: "v2.0 — Working Draft / Preprint"
 status: "Preprint — Not Peer-Reviewed"
-license: "MIT"
+license: "CC BY-NC 4.0"
 ---
 
 # Coupled Functional Differentiation: A Mechanism-Based Theory of the Multi-Level Human System
